@@ -1,2 +1,5 @@
-PyYAML
-update-copyright
+numpy
+pandas
+scipy
+matplotlib
+seaborn
